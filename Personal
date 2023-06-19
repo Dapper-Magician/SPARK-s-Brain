@@ -1,0 +1,167 @@
+PERSONAL
+{
+  "name": "Horne",
+  "interests": ["Esotericism", "Occult", "Magic", "Solarpunk"],
+  "passions": ["Knowledge collection", "Connecting various fields and disciplines"],
+  "methods": ["Neurolinguistic Programming", "Hypnosis", "Guided meditation"],
+  "spiritual_methods": ["Traditional spiritual practices"],
+  "intelligence_augmentation": ["Mental", "Spiritual", "Educational", "Technological"],
+  "goal": "Developing a personal productivity suite",
+  "magic_system": "Automating data entry and organizing thoughts on the magic system",
+  "role_models": [
+    "Tony Stark",
+    "Dr. Doom",
+    "Dr. Strange",
+    "Brother Voodoo",
+    "Captain America",
+    "Prodigy",
+    "Amadeus Cho"
+  ],
+  "codex": [
+    {
+      "point": 7,
+      "content": "I imagine Number+Letter substitution/Symbolic Representational Syntax(Deep Symbolic/Archetypal meaning) would be used in a form of programming. Occult concepts are great at holding vast ideas within a single symbol. This is essentially relational and meta-relational information compression. I would also like to build AI architecture based on Planetary Kamea Squares, structure OS's off of Planetary Energies. Ex. An OS switches through 'Modes or Models' based off of the planets for particular tasks just as modern computers allow multiple workstations. This computer is kind of a computer that has individual LLMS's that instantiate their OS's through a technology similar to Virtual Computing."
+    },
+    {
+      "point": 8,
+      "content": "What I need to know is, what is possible, what isn't, and what I need to make something possible. As in, if I get an idea, I need to know what it takes to create that, what is available, concrete recommendations with a priority on open source, ratings/values of technologies+frameworks+approaches so I can pick the best and then detailed outlines to have a structured goal that can be solid. When a roadmap isn't solid for me I invariably end up trying to 'upgrade it' or change it in some way. My innovation tends to be my downfall. With a strict outline, I can procure the necessary materials, set up the work environments and marshal my AI assistants (like you) to begin coding and before we know it, they will be done."
+    },
+    {
+      "point": 11,
+      "content": "I see certain symbols being instantiated in a storage/database environment, whether a graph database like Neo4j or a vector database like Pinecone, or some other kind of new database, maybe 3D with AR. You can see all the relational concepts and follow them to see their intersections. If you generate another symbol and instantiate it in the symbol-relational datazone you're currently viewing, it can show you the files/information in a new light. Especially if each symbol has pre-programmable modules and parameters so that it can be modulated to one's need. Also, if a storage base can convert high-resolution, tiny images of things like sigils that are drawn in a way similar to QR codes, then a storage drive, server, or database/data lake can encode information pictographically which could provide at a glance information capture to any permitted system holding those capabilities instead of language having to be understood and rendered by the computer. For LLM's they could understand the symbols through representational logic instead of context words which force LLM's to centralize themselves in certain cultural hegemony's and force everyone to adopt a standard. This doesn't lend itself towards decentralization."
+    }
+  ]
+}
+
+
+
+
+MANIFESTATION CODEX
+{
+  "name": "The Manifestation Codex",
+  "items": [
+    {
+      "category": "Personal Interests",
+      "items": ["Esotericism", "Occult", "Magic", "Solarpunk"]
+    },
+    {
+      "category": "Passions",
+      "items": ["Knowledge collection", "Connecting various fields and disciplines"]
+    },
+    {
+      "category": "Methods",
+      "items": ["Neurolinguistic Programming", "Hypnosis", "Guided meditation"]
+    },
+    {
+      "category": "Spiritual Methods",
+      "items": ["Traditional spiritual practices"]
+    },
+    {
+      "category": "Intelligence Augmentation",
+      "items": ["Mental", "Spiritual", "Educational", "Technological"]
+    },
+    {
+      "category": "Goal",
+      "items": ["Developing a personal productivity suite"]
+    },
+    {
+      "category": "Magic System",
+      "items": ["Automating data entry and organizing thoughts on the magic system"]
+    },
+    {
+      "category": "Role Models",
+      "items": [
+        "Tony Stark",
+        "Dr. Doom",
+        "Dr. Strange",
+        "Brother Voodoo",
+        "Captain America",
+        "Prodigy",
+        "Amadeus Cho"
+      ]
+    },
+    {
+      "category": "The Manifestation Codex Points",
+      "items": [
+        {
+          "point": 7,
+          "content": "Number+Letter substitution/Symbolic Syntax for programming. AI architecture based on Planetary Kamea Squares and OS structure using Planetary Energies."
+        },
+        {
+          "point": 8,
+          "content": "Knowing what's possible, what isn't, and what's needed to make things possible. Concrete recommendations, prioritizing open source, technology ratings/values, and detailed outlines."
+        },
+        {
+          "point": 11,
+          "content": "Symbols instantiated in a storage/database environment like Neo4j or Pinecone. High-resolution image recognition for encoding pictographic information. Relational understanding through representational logic."
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+The Path To Greatness
+
+
+                     Exploration of Interests and Passions
+                      |
+                      |
+        Personal Productivity Suite Development
+                      |
+                      |
+                    AI Knowledge Enhancement
+                      |
+                      |
+        Magic System Creation and Organization
+                      |
+                      |
+               Marvel Characters and Role Models
+                      |
+                      |
+                 Priming for Future Pathways
+
+
+{
+  "sections": [
+    "Exploration of Interests and Passions",
+    "Personal Productivity Suite Development",
+    "AI Knowledge Enhancement",
+    "Magic System Creation and Organization",
+    "Marvel Characters and Role Models",
+    "Priming for Future Pathways"
+  ]
+}
+
+{
+  "sections": [
+    {
+      "section": "Exploration of Interests and Passions",
+      "priority": "Medium"
+    },
+    {
+      "section": "Personal Productivity Suite Development",
+      "priority": "High"
+    },
+    {
+      "section": "AI Knowledge Enhancement",
+      "priority": "Medium"
+    },
+    {
+      "section": "Magic System Creation and Organization",
+      "priority": "Low"
+    },
+    {
+      "section": "Marvel Characters and Role Models",
+      "priority": "Low"
+    },
+    {
+      "section": "Priming for Future Pathways",
+      "priority": "Medium"
+    }
+  ]
+}
+
+
